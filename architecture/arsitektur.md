@@ -20,14 +20,14 @@ Menyimpan seluruh data akademik secara terstruktur (misalnya menggunakan MySQL/P
 
 
 
-2. Client-Server
+### Client-Server
   * Client: Browser mahasiswa, dosen, dan admin yang mengakses sistem melalui antarmuka web.
 
   * Server: Menjalankan aplikasi utama, memproses permintaan, dan mengelola data di database.
 
 
 
-3. Alasan Pemilihan
+### Alasan Pemilihan
   * Keterpisahan Tanggung Jawab: Layered architecture memudahkan pengembangan dan pemeliharaan karena setiap lapisan memiliki fungsi spesifik.
 
   * Skalabilitas: Sistem dapat dikembangkan lebih lanjut, misalnya menambahkan modul keuangan atau integrasi dengan sistem e-learning.
