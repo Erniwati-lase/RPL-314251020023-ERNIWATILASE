@@ -42,5 +42,3 @@ Sistem Akademik Kampus dibagi menjadi beberapa komponen logis yang saling berhub
  * Academic Management Module ↔ Database Module → Query data mahasiswa, mata kuliah, jadwal.
  * Grading Module ↔ Database Module → Input nilai dan generate transkrip.
  * Reporting Module ↔ Database Module → Menarik data untuk laporan.
-
- ![alt text](<diagram logis sistem akademik kampus.png>)
