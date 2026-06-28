@@ -18,7 +18,7 @@
 ## diagram UML tentang Sistem Akademik KAmpus
 
 1. Use Case Diagram
-![Use Case Diagram](./architecture/use-case-tugas.jpeg)
+![Use Case Diagram](./image/use-case-tugas.jpeg)
 
 2. Class Diagram
 ![Class Diagram](./architecture/class-diagram-tigas.jpeg) 
