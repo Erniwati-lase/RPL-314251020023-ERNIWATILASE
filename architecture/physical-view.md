@@ -38,9 +38,9 @@ Memantau performa sistem, mencatat aktivitas, dan mendeteksi anomali.
 
 
 ## Hubungan Antar Komponen
-*Client (Browser Mahasiswa/Dosen/Admin) → mengakses Web Server melalui internet/LAN.
-*Web Server → meneruskan permintaan ke Application Server.
-*Application Server → berinteraksi dengan Database Server untuk membaca/menulis data.
-*Database Server → melakukan sinkronisasi dengan Backup Database.
-*Load Balancer → mendistribusikan trafik ke beberapa Application Server.
-*Firewall → mengontrol akses dari luar ke dalam sistem.
+* Client (Browser Mahasiswa/Dosen/Admin) → mengakses Web Server melalui internet/LAN.
+* Web Server → meneruskan permintaan ke Application Server.
+* Application Server → berinteraksi dengan Database Server untuk membaca/menulis data.
+* Database Server → melakukan sinkronisasi dengan Backup Database.
+* Load Balancer → mendistribusikan trafik ke beberapa Application Server.
+* Firewall → mengontrol akses dari luar ke dalam sistem.
