@@ -18,13 +18,13 @@
 ## diagram UML tentang Sistem Akademik KAmpus
 
 1. Use Case Diagram
-![Use Case Diagram](./architecture/use-case-diagram.png)
+![Use Case Diagram](./architecture/use-case-tugas.jpeg)
 
 2. Class Diagram
-![Class Diagram](./architecture/class-diagram.png) 
+![Class Diagram](./architecture/class-diagram-tigas.jpeg) 
 
 3. Sequence Diagram
-![Sequence Diagram](./architecture/sequence-diagram.png)
+![Sequence Diagram](./architecture/sequence-diagram-tugas.jpeg)
 
 4. Activity Diagram
-![Activity Diagram](./architecture/activity-diagram.png)
+![Activity Diagram](./architecture/activity-diagram-tugas.png)
