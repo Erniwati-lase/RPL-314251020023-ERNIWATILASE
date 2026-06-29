@@ -17,8 +17,21 @@
   
 ## diagram UML tentang Sistem Akademik Kampus
 
-1. Use Case Diagram
+
+
+### Use Case Diagram
 ![alt_text](https://github.com/Erniwati-lase/RPL-314251020023-ERNIWATILASE/blob/master/architecture/image/use%20case%20tugas.jpeg?raw=true)
 
-2. class Diagram
+
+
+### class Diagram
    ![alt_text](https://github.com/Erniwati-lase/RPL-314251020023-ERNIWATILASE/blob/master/architecture/image/class%20diagram%20tugas.jpeg?raw=true)
+
+
+### Sequence Diagram 
+![alt_text](https://github.com/Erniwati-lase/RPL-314251020023-ERNIWATILASE/blob/master/architecture/image/Sequence%20diagram%20tugas.jpeg?raw=true)
+
+
+### Actifity Diagram
+![alt_text](https://github.com/Erniwati-lase/RPL-314251020023-ERNIWATILASE/blob/master/architecture/image/activity%20diagram%20tugas.png?raw=true)
+
