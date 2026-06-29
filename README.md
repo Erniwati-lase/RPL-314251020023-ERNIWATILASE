@@ -28,3 +28,5 @@
 
 4. Activity Diagram
 ![Activity Diagram tugas ](./architecture/activity-diagram-tugas.png)
+
+![image](./architecture/activity-diagram-tugas.png)
