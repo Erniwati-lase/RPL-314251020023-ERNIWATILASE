@@ -15,7 +15,10 @@
   1. Maintenance plan
   2. architecture
   
-## diagram UML tentang Sistem Akademik KAmpus
+## diagram UML tentang Sistem Akademik Kampus
 
 1. Use Case Diagram
 ![alt_text](https://github.com/Erniwati-lase/RPL-314251020023-ERNIWATILASE/blob/master/architecture/image/use%20case%20tugas.jpeg?raw=true)
+
+2. class Diagram
+   ![alt_text](https://github.com/Erniwati-lase/RPL-314251020023-ERNIWATILASE/blob/master/architecture/image/class%20diagram%20tugas.jpeg?raw=true)
