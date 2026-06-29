@@ -18,3 +18,4 @@
 ## diagram UML tentang Sistem Akademik KAmpus
 
 1. Use Case Diagram
+![alt_text](https://github.com/Erniwati-lase/RPL-314251020023-ERNIWATILASE/blob/master/architecture/image/use%20case%20tugas.jpeg?raw=true)
