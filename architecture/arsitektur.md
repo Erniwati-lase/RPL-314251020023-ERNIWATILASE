@@ -6,7 +6,7 @@
 ### Layered Architecture
 Arsitektur ini membagi sistem ke dalam beberapa lapisan (layer) yang memiliki tanggung jawab berbeda:
 
-  * Presentation Layer (UI/Front-End)  
+  * Presentation Layer (UI/Front-End). 
 Antarmuka web yang digunakan mahasiswa, dosen, dan admin untuk berinteraksi dengan sistem.
 
   * Application Layer (Business Logic)  
